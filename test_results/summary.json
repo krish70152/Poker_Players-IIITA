@@ -1,0 +1,13 @@
+{
+  "total_submissions_discovered": 2,
+  "qualified_count": 0,
+  "qualification_rounds": 300,
+  "qualification_threshold": 1,
+  "finals_match_rounds": 100,
+  "outputs": {
+    "qualification_csv": "test_results\\qualification.csv",
+    "matches_csv": "test_results\\matches.csv",
+    "results_csv": "test_results\\results.csv",
+    "logs_dir": "test_results\\logs"
+  }
+}

@@ -1,0 +1,3 @@
+bot_id,path,validation_ok,validation_errors,qualified,baseline_bankroll,submission_bankroll,notes
+baseline/python_bot,C:/Users/Krish Yadav/Poker_Players-IIITA/test_bots/baseline/python_bot,True,,False,0,0,engine.py exited with non-zero status: 1
+IIT2025142/python_bot,C:/Users/Krish Yadav/Poker_Players-IIITA/test_bots/IIT2025142/python_bot,True,,False,0,0,engine.py exited with non-zero status: 1
